@@ -34,7 +34,7 @@ fp-info-cache
 *.csv
 
 # Archived Backups (KiCad 6.0)
-**/*-backups/*.zip
+*/*-backups/*.zip
 
 # Local git-based history (KiCad 9.0+)
 .history
