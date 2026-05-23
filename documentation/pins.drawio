@@ -13,8 +13,8 @@
         <mxCell id="wY3ZHXAPM9YFnk_-c3ed-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;I - D0 .. D7&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;I - RW - al // LOW = read, HIGH = write&lt;/div&gt;&lt;div&gt;O - CLO // Clock output&lt;/div&gt;&lt;div&gt;I - A0 .. A7&lt;/div&gt;&lt;div&gt;I - RA // Memory Row A&lt;/div&gt;&lt;div&gt;I - RB // Memory Row B&lt;/div&gt;&lt;div&gt;I - CA // Memory Column A&lt;/div&gt;&lt;div&gt;I - CB // Memory Column B&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="230" x="10" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="wY3ZHXAPM9YFnk_-c3ed-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" value="&lt;div align=&quot;right&quot;&gt;Notes:&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;For pins that say &quot;al&quot;, those are active low pins, that are well, active when the signal is LOW (tied to 0V or GND), and the opposite for pins that say &quot;ah&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="660" as="geometry" />
+        <mxCell id="wY3ZHXAPM9YFnk_-c3ed-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" value="&lt;div align=&quot;right&quot;&gt;Notes:&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;For pins that say &quot;al&quot;, those are active low pins, that are well, active when the signal is LOW (tied to 0V or GND), and the opposite for pins that say &quot;ah&quot;&lt;/div&gt;&lt;div&gt;All pinouts are the same for all cards&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="190" x="650" as="geometry" />
         </mxCell>
         <mxCell id="wY3ZHXAPM9YFnk_-c3ed-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;div&gt;Power&lt;/div&gt;" vertex="1">
           <mxGeometry height="20" width="60" y="100" as="geometry" />
