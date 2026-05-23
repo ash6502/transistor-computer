@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="RPHNKQriU9SedeTeBuYJ">
+    <mxGraphModel dx="445" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g0Qv8Ey5J8A034l5WD6v-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="Transistor computer Backplane pinout" vertex="1">
+          <mxGeometry height="30" width="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
