@@ -1,14 +1,20 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="RPHNKQriU9SedeTeBuYJ">
-    <mxGraphModel dx="445" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g0Qv8Ey5J8A034l5WD6v-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h4&gt;Transistor computer Backplane pinout&lt;/h4&gt;" vertex="1">
-          <mxGeometry height="40" width="240" as="geometry" />
+        <mxCell id="g0Qv8Ey5J8A034l5WD6v-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h3&gt;Transistor computer Backplane pinout&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="40" width="280" as="geometry" />
         </mxCell>
-        <mxCell id="wY3ZHXAPM9YFnk_-c3ed-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="Data Bus" vertex="1">
-          <mxGeometry height="30" width="60" x="40" y="50" as="geometry" />
+        <mxCell id="wY3ZHXAPM9YFnk_-c3ed-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;div&gt;Data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="60" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wY3ZHXAPM9YFnk_-c3ed-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;I - D0 .. D7&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;I - RW - al&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wY3ZHXAPM9YFnk_-c3ed-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" value="&lt;div align=&quot;right&quot;&gt;Notes:&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;For pins that say &quot;al&quot;, those are active low pins, that are well, active when the signal is LOW (tied to 0V or GND), and the opposite for pins that say &quot;ah&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
